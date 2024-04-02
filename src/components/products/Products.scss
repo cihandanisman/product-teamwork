@@ -34,6 +34,7 @@
     height: $cardHeight;
     border-radius: $borderRadius;
     filter: sepia(100%);
+    width: 250px;
   }
   &:hover img {
     filter: none;
