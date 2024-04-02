@@ -18,6 +18,9 @@
     &:hover {
       background-color: $btnHoverColor;
     }
+    &:focus {
+      background-color: $btnHoverColor;
+    }
 
   }
 
